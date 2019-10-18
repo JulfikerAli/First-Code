@@ -3,6 +3,8 @@
 
 int main(){
     int n,Average,Sum;
+    printf("Enter sum and number");
+    scanf("%d%d",&sum,&number);
 
     Average = Sum/n;
 
